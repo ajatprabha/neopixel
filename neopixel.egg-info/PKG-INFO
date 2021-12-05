@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
-Name: neo-pixel
+Name: neopixel
 Version: 0.0.1
 Summary: An importable package to control LEDs via UDP protocol
-Home-page: UNKNOWN
+Home-page: https://github.com/ajatprabha/neopixel
 Author: Ajat Prabha
-License: UNKNOWN
-Platform: UNKNOWN
+License: MIT
+Platform: any
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent

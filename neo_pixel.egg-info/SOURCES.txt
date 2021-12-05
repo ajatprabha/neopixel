@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-neo_pixel.egg-info/PKG-INFO
-neo_pixel.egg-info/SOURCES.txt
-neo_pixel.egg-info/dependency_links.txt
-neo_pixel.egg-info/top_level.txt
-src/__init__.py
-src/visualizer.py
